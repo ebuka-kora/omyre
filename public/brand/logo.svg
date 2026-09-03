@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="omyre-nw" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F0C4B0"/>
+      <stop offset="100%" stop-color="#E8A898"/>
+    </linearGradient>
+    <linearGradient id="omyre-ne" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#E8A0A0"/>
+      <stop offset="100%" stop-color="#D99AA0"/>
+    </linearGradient>
+    <linearGradient id="omyre-sw" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E8C9A8"/>
+      <stop offset="100%" stop-color="#EAD7CC"/>
+    </linearGradient>
+    <linearGradient id="omyre-se" x1="1" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#C98286"/>
+      <stop offset="100%" stop-color="#D4A090"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="18" fill="#F8F0EA"/>
+  <path d="M32 6C20.4 6 10.8 14.2 8 26c8.2-2.4 16.4-2.8 24-2 1.2-8.6 2.4-14.4 0-18Z" fill="url(#omyre-nw)"/>
+  <path d="M32 6c11.6 0 21.2 8.2 24 20-8.2-2.4-16.4-2.8-24-2-1.2-8.6-2.4-14.4 0-18Z" fill="url(#omyre-ne)"/>
+  <path d="M8 26c2.2 14.8 12.6 32 24 32 0-10.4-.4-20.8-2-24-8.4.6-15.8 2.2-22 8Z" fill="url(#omyre-sw)"/>
+  <path d="M56 26c-2.2 14.8-12.6 32-24 32 0-10.4.4-20.8 2-24 8.4.6 15.8 2.2 22 8Z" fill="url(#omyre-se)"/>
+  <path d="M32 20.5 35.4 29.2 44.5 32.5 35.4 35.8 32 44.5 28.6 35.8 19.5 32.5 28.6 29.2Z" fill="#F8F0EA"/>
+</svg>
